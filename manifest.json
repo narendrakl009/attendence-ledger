@@ -1,0 +1,14 @@
+{
+  "name": "Attendance Ledger",
+  "short_name": "Ledger",
+  "description": "Daily course attendance tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1ECDF",
+  "theme_color": "#2B2620",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
